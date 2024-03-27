@@ -11,7 +11,7 @@ let obj2 = new Object();
  */
 
 function Usuario() {
-    this.name = "Alan brito";
+  this.name = "Alan brito";
 }
 
 let user = new Usuario();
